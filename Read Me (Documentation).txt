@@ -1,0 +1,32 @@
+    	 Full Stack Developer Task- Conscript HR Advisors
+
+              		    Pages:
+
+index.html
+register.html
+studentuser.html
+viewdetails.html
+
+            		 Description:
+
+index: This page containes login of the registered user. If the user is not registered then he/she should register themself.
+
+register: This page containes user information like name, username and password for which they will use to authenticate themself.
+
+studentuser: This page containes a form for logged in user to register his/her details, followed by a View and Logout button.( on clicking on View button if the registered user has submitted the form then he/she would be able to see their details.
+
+viewdetails: This page shows the details of registered student user.
+
+
+Note: I have made this minor project in a way that each user is allowed to register his/her details only one at a time and view it infinity times. (though each user can fill up the student form many times but he/she would be able to view only the first registration form).
+
+
+                           django superuser:
+username: conscript
+password: ayush888
+
+                         demo user(index.html):
+
+username: ayush
+password: ayush888
+
